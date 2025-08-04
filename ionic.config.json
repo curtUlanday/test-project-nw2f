@@ -1,0 +1,7 @@
+{
+  "name": "test-project-nw2f",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
